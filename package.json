@@ -1,0 +1,22 @@
+{
+  "name": "word-guess-constructor",
+  "version": "1.0.0",
+  "description": "Using Command Line, user tries to guess a random word selected by app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kellikells/Word-Guess-Constructor.git"
+  },
+  "author": "kelli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kellikells/Word-Guess-Constructor/issues"
+  },
+  "homepage": "https://github.com/kellikells/Word-Guess-Constructor#readme",
+  "dependencies": {
+    "inquirer": "^7.0.6"
+  }
+}
